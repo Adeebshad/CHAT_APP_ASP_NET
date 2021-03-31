@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT_Chat_APP\\ChatApp\\ChatApp\\ChatApp.csproj": {}
+    "E:\\GIT_Chat_APP\\CHAT_APP_ASP_NET\\ChatApp\\ChatApp.csproj": {}
   },
   "projects": {
-    "E:\\GIT_Chat_APP\\ChatApp\\ChatApp\\ChatApp.csproj": {
+    "E:\\GIT_Chat_APP\\CHAT_APP_ASP_NET\\ChatApp\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT_Chat_APP\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "projectUniqueName": "E:\\GIT_Chat_APP\\CHAT_APP_ASP_NET\\ChatApp\\ChatApp.csproj",
         "projectName": "ChatApp",
-        "projectPath": "E:\\GIT_Chat_APP\\ChatApp\\ChatApp\\ChatApp.csproj",
+        "projectPath": "E:\\GIT_Chat_APP\\CHAT_APP_ASP_NET\\ChatApp\\ChatApp.csproj",
         "packagesPath": "C:\\Users\\DOLPHIN\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT_Chat_APP\\ChatApp\\ChatApp\\obj\\",
+        "outputPath": "E:\\GIT_Chat_APP\\CHAT_APP_ASP_NET\\ChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DOLPHIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

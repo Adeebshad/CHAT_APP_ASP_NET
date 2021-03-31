@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNoErhWjpA7A3ZDsxWuu7hEgfLf9p3MyO4hVMO6Go/MOpPiUd/sWXmgtTO2bC4FiF5M4JG9Q00spBddw0GA4rQ==",
+  "dgSpecHash": "wcB54NxAWXMLueFf4wK6CL033o0AAZJAnLvmWr9CqRSHyWFzkdtKpZiDMW6FPIuWr/FzCJnK4PVhdyXIC57nRw==",
   "success": true,
-  "projectFilePath": "E:\\GIT_Chat_APP\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "projectFilePath": "E:\\GIT_Chat_APP\\CHAT_APP_ASP_NET\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "C:\\Users\\DOLPHIN\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",
