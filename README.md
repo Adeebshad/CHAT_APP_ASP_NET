@@ -4,4 +4,4 @@ Create a database named with ChatApp.
 
 Here is some images of this project
 
-![alt text](picture/Capture1JPG.jpg)
+![alt text](picture/Capture1.PNG)
